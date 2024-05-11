@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/*Topline*/
+
+.skip{
+    color: #fff;
+    text-align: right;
+    background-color: #274472;
+}
+
+.navbar-default{
+    background-color:#ADEFD1FF; 
+    padding:0px;
+}
+.nlist{
+    padding: 6px 16px;
+    
+}
+.alist {
+    font-size:16px;
+    color:#00203FFF;
+}
+.collapse ul{
+    width:100%
+}
+.navbar-default .navbar-nav>li>a {
+    color: #00203FFF;
+    font-family: verdana;
+    font-size: 14px;
+}
+ .navbar-nav li{
+    border-right: 1px solid #2e2424;
+}
